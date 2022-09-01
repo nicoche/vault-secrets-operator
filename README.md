@@ -1,3 +1,9 @@
+Forked because: https://github.com/ricoberger/vault-secrets-operator/issues/165
+
+----------------
+
+
+
 <div align="center">
   <img src="./assets/logo.png?" width="20%" />
   <br><br>
